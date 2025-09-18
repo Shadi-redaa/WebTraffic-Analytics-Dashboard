@@ -13,5 +13,5 @@ It is designed to support data-driven decision-making by tracking performance KP
 - View traffic by country  
 - Analyze monthly and daily trends  
 
-## Dashboard Screenshot
+## **Dashboard Screenshot**
 ![Web Traffic Performance](screenShots/webAnalysis1.png)
